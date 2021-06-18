@@ -1,0 +1,355 @@
+{
+    "Raspberry Pi": [
+        {
+            "name": "core",
+            "issues": [
+                {
+                    "name": "GTFS integration returns error",
+                    "link": "https://github.com//home-assistant/core/issues/50854"
+                },
+                {
+                    "name": "Group State of cover group only updating for first entity",
+                    "link": "https://github.com//home-assistant/core/issues/50849"
+                },
+                {
+                    "name": "Homekit Error when turning on lights supporting different features",
+                    "link": "https://github.com//home-assistant/core/issues/50846"
+                },
+                {
+                    "name": "Scrape entity_id and icon definition is missing",
+                    "link": "https://github.com//home-assistant/core/issues/50843"
+                },
+                {
+                    "name": "Statistics Sensor has no attributes when measuring binary_sensor entities",
+                    "link": "https://github.com//home-assistant/core/issues/50837"
+                }
+            ]
+        },
+        {
+            "name": "pi-hole",
+            "issues": [
+                {
+                    "name": "Pi-hole blocking less ads after FTL update",
+                    "link": "https://github.com//pi-hole/pi-hole/issues/4154"
+                },
+                {
+                    "name": "External link to docs is missing target=\"_blank\"",
+                    "link": "https://github.com//pi-hole/pi-hole/issues/4151"
+                },
+                {
+                    "name": "Devices not loading requested webpages after restarting Pi-hole",
+                    "link": "https://github.com//pi-hole/pi-hole/issues/4148"
+                },
+                {
+                    "name": "Upgrading 5.8 to 5.8.1 after removing IPV4_ADDRESS throws error",
+                    "link": "https://github.com//pi-hole/pi-hole/issues/4146"
+                },
+                {
+                    "name": "Wrong IPv6 dhcp-range parameters for FTL/dnsmasq",
+                    "link": "https://github.com//pi-hole/pi-hole/issues/4142"
+                }
+            ]
+        },
+        {
+            "name": "MagicMirror",
+            "issues": [
+                {
+                    "name": "Black screen (Modules not appearing)",
+                    "link": "https://github.com//MichMich/MagicMirror/issues/2553"
+                },
+                {
+                    "name": "2.15 using address:\"0.0.0.0\" on windows causes black screen",
+                    "link": "https://github.com//MichMich/MagicMirror/issues/2550"
+                },
+                {
+                    "name": "Proposal: Wiki Restructure",
+                    "link": "https://github.com//MichMich/MagicMirror/issues/2545"
+                },
+                {
+                    "name": "Calendar: end date missing for multi day events (like holidays)",
+                    "link": "https://github.com//MichMich/MagicMirror/issues/2529"
+                },
+                {
+                    "name": "ms custom timezone causes problems",
+                    "link": "https://github.com//MichMich/MagicMirror/issues/2509"
+                }
+            ]
+        },
+        {
+            "name": "johnny-five",
+            "issues": [
+                {
+                    "name": "Raspberry Pi 4B + pca9685 + ESC",
+                    "link": "https://github.com//rwaldron/johnny-five/issues/1726"
+                },
+                {
+                    "name": "RFID",
+                    "link": "https://github.com//rwaldron/johnny-five/issues/1725"
+                },
+                {
+                    "name": "Version 2.0 problem with Node-Red",
+                    "link": "https://github.com//rwaldron/johnny-five/issues/1724"
+                },
+                {
+                    "name": "Raspberry Pi Keypad 4x4 I2C Nano Backpack leads to a crash",
+                    "link": "https://github.com//rwaldron/johnny-five/issues/1723"
+                },
+                {
+                    "name": "Can't Read Pin State",
+                    "link": "https://github.com//rwaldron/johnny-five/issues/1715"
+                }
+            ]
+        },
+        {
+            "name": "nnn",
+            "issues": [
+                {
+                    "name": "ToDo list",
+                    "link": "https://github.com//jarun/nnn/issues/1022"
+                }
+            ]
+        }
+    ],
+    "C++": [
+        {
+            "name": "CS-Notes",
+            "issues": [
+                {
+                    "name": "大对象直接在老年代分配描述不准确",
+                    "link": "https://github.com//CyC2018/CS-Notes/issues/1096"
+                },
+                {
+                    "name": "Java 虚拟机-垃圾收集算法-typo",
+                    "link": "https://github.com//CyC2018/CS-Notes/issues/1092"
+                },
+                {
+                    "name": "适配器模式的类图似乎画错了",
+                    "link": "https://github.com//CyC2018/CS-Notes/issues/1091"
+                },
+                {
+                    "name": "优化 最短单词路径 解法",
+                    "link": "https://github.com//CyC2018/CS-Notes/issues/1090"
+                },
+                {
+                    "name": "数据库-->SQL练习-->178. Rank Scores 另一种简化方案",
+                    "link": "https://github.com//CyC2018/CS-Notes/issues/1087"
+                }
+            ]
+        },
+        {
+            "name": "project-based-learning",
+            "issues": [
+                {
+                    "name": "Is project based learning still alive?",
+                    "link": "https://github.com//tuvtran/project-based-learning/issues/295"
+                },
+                {
+                    "name": "Why do I always have an unread Notification",
+                    "link": "https://github.com//tuvtran/project-based-learning/issues/294"
+                },
+                {
+                    "name": "Create a CRUD application with MVC framework",
+                    "link": "https://github.com//tuvtran/project-based-learning/issues/287"
+                },
+                {
+                    "name": "IN the Python Tuts Under the web apps section \"create a blog web app\" Part 2 Seems to either be broken or the source is no longer available.",
+                    "link": "https://github.com//tuvtran/project-based-learning/issues/285"
+                },
+                {
+                    "name": "Add Flutter tutorials",
+                    "link": "https://github.com//tuvtran/project-based-learning/issues/282"
+                }
+            ]
+        },
+        {
+            "name": "leetcode",
+            "issues": [
+                {
+                    "name": "【每日一题】- 2021-04-26 - 交换比特",
+                    "link": "https://github.com//azl397985856/leetcode/issues/491"
+                },
+                {
+                    "name": "【每日一题】- 2021-04-20 - 噪音传播 ",
+                    "link": "https://github.com//azl397985856/leetcode/issues/490"
+                },
+                {
+                    "name": "【每日一题】- 2021-04-19 -  拿小球",
+                    "link": "https://github.com//azl397985856/leetcode/issues/489"
+                },
+                {
+                    "name": "【每日一题】- 2021-04-14 - 重排数字",
+                    "link": "https://github.com//azl397985856/leetcode/issues/487"
+                },
+                {
+                    "name": "【刷题小助手】贡献公司标签（面试遇到leetcode原题或类似题），成为开源项目的贡献者😘",
+                    "link": "https://github.com//azl397985856/leetcode/issues/382"
+                }
+            ]
+        },
+        {
+            "name": "x64dbg",
+            "issues": [
+                {
+                    "name": "hActiveThread not being updated in cbDebugEvent",
+                    "link": "https://github.com//x64dbg/x64dbg/issues/2663"
+                },
+                {
+                    "name": "内存访问数据过多时下内存访问断点会崩溃,window7系统",
+                    "link": "https://github.com//x64dbg/x64dbg/issues/2662"
+                },
+                {
+                    "name": "YARA module seems dosen't work in lastest x64dbg.",
+                    "link": "https://github.com//x64dbg/x64dbg/issues/2656"
+                },
+                {
+                    "name": "Error starting process (CreateProcess) x64dbg",
+                    "link": "https://github.com//x64dbg/x64dbg/issues/2655"
+                },
+                {
+                    "name": "Comment Crash in 32/64-bit",
+                    "link": "https://github.com//x64dbg/x64dbg/issues/2654"
+                }
+            ]
+        },
+        {
+            "name": "awesome-cpp",
+            "issues": [
+                {
+                    "name": "Modern C++ Next: Comprehensive Guide for C++20",
+                    "link": "https://github.com//fffaraz/awesome-cpp/issues/1105"
+                },
+                {
+                    "name": "BerylDB",
+                    "link": "https://github.com//fffaraz/awesome-cpp/issues/1103"
+                },
+                {
+                    "name": "Top 10 C++ Resources You MUST Know About!",
+                    "link": "https://github.com//fffaraz/awesome-cpp/issues/1102"
+                },
+                {
+                    "name": "badaix/popl",
+                    "link": "https://github.com//fffaraz/awesome-cpp/issues/1097"
+                },
+                {
+                    "name": "sciplot/sciplot",
+                    "link": "https://github.com//fffaraz/awesome-cpp/issues/1094"
+                }
+            ]
+        }
+    ],
+    "ES6": [
+        {
+            "name": "You-Dont-Know-JS",
+            "issues": [
+                {
+                    "name": "Chinese translation of 2nd edition book1",
+                    "link": "https://github.com//getify/You-Dont-Know-JS/issues/1729"
+                },
+                {
+                    "name": "Is this example in the book really a closure or just global scope reference?",
+                    "link": "https://github.com//getify/You-Dont-Know-JS/issues/1727"
+                },
+                {
+                    "name": "Ukrainian translation of YDKJS Yet 2nd Edition",
+                    "link": "https://github.com//getify/You-Dont-Know-JS/issues/1719"
+                },
+                {
+                    "name": "for types & grammar 2nd-edition: cover % operator nuances",
+                    "link": "https://github.com//getify/You-Dont-Know-JS/issues/1703"
+                },
+                {
+                    "name": "Chapter 2: Functions, Confusing Grammar",
+                    "link": "https://github.com//getify/You-Dont-Know-JS/issues/1697"
+                }
+            ]
+        },
+        {
+            "name": "javascript",
+            "issues": [
+                {
+                    "name": "no-restricted-syntax for...of warning potentially confusing",
+                    "link": "https://github.com//airbnb/javascript/issues/2428"
+                },
+                {
+                    "name": "Remove Math.pow from no-restricted-properties and use prefer-exponentiation-operator instead.",
+                    "link": "https://github.com//airbnb/javascript/issues/2421"
+                },
+                {
+                    "name": "Import Declaration Newline Rules Confusing/Not Documented Correctly",
+                    "link": "https://github.com//airbnb/javascript/issues/2340"
+                },
+                {
+                    "name": "Should 'react/react-in-jsx-scope' be disabled by default if the new JSX transform is used.",
+                    "link": "https://github.com//airbnb/javascript/issues/2334"
+                },
+                {
+                    "name": "JSX is not displayed correctly in webpage",
+                    "link": "https://github.com//airbnb/javascript/issues/2301"
+                }
+            ]
+        },
+        {
+            "name": "nodebestpractices",
+            "issues": [
+                {
+                    "name": "Add formatter and linter for markdown",
+                    "link": "https://github.com//goldbergyoni/nodebestpractices/issues/985"
+                },
+                {
+                    "name": "Adding a comparison for web framework",
+                    "link": "https://github.com//goldbergyoni/nodebestpractices/issues/984"
+                },
+                {
+                    "name": "Node.js",
+                    "link": "https://github.com//goldbergyoni/nodebestpractices/issues/981"
+                },
+                {
+                    "name": "Welcome rluvaton as a new member in the maintainers team",
+                    "link": "https://github.com//goldbergyoni/nodebestpractices/issues/969"
+                },
+                {
+                    "name": "[Bullet Point Idea] Use map with async with caution",
+                    "link": "https://github.com//goldbergyoni/nodebestpractices/issues/960"
+                }
+            ]
+        },
+        {
+            "name": "webpack",
+            "issues": [
+                {
+                    "name": "Cannot access '__WEBPACK_DEFAULT_EXPORT__' before initialization",
+                    "link": "https://github.com//webpack/webpack/issues/13411"
+                },
+                {
+                    "name": "TypeError: compiler.modifiedFiles is not iterable (5.31.1)",
+                    "link": "https://github.com//webpack/webpack/issues/13407"
+                },
+                {
+                    "name": "Dynamic expressions not working with new URL(.., import.meta.url)",
+                    "link": "https://github.com//webpack/webpack/issues/13373"
+                },
+                {
+                    "name": "optimization.concatenateModules breaks with static properties because of variable naming clash in a different module",
+                    "link": "https://github.com//webpack/webpack/issues/13371"
+                },
+                {
+                    "name": "Webpack 5 - Tree shaking not working with multiple entry points and single runtime chunk",
+                    "link": "https://github.com//webpack/webpack/issues/13356"
+                }
+            ]
+        },
+        {
+            "name": "33-js-concepts",
+            "issues": [
+                {
+                    "name": "Invalid link: Object.create in JavaScript — Rupesh Mishra",
+                    "link": "https://github.com//leonardomso/33-js-concepts/issues/163"
+                },
+                {
+                    "name": "Along with the current articles and videos, add an exercises section",
+                    "link": "https://github.com//leonardomso/33-js-concepts/issues/141"
+                }
+            ]
+        }
+    ]
+}

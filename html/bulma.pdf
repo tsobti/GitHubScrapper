@@ -1,0 +1,433 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 5186
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 799.3703149606299121 Td
+(issue: Active dropdown item not being styled differently) Tj
+T* (URL: https://github.com/jgthms/bulma/issues/3337) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 756.8506299212598378 Td
+(issue: [Question] Usage of bulma inside a CSS file/Usage of hover states inside HTML) Tj
+T* (URL: https://github.com/jgthms/bulma/issues/3334) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 714.3309448818897636 Td
+(issue: [Feature] SASS division without slash) Tj
+T* (URL: https://github.com/jgthms/bulma/issues/3333) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 671.8112598425196893 Td
+(issue: [Bug]: modal-card-title does not wrap) Tj
+T* (URL: https://github.com/jgthms/bulma/issues/3332) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 629.291574803149615 Td
+(issue: Problems in is-loading) Tj
+T* (URL: https://github.com/jgthms/bulma/issues/3329) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 586.7718897637794271 Td
+(issue: [Question] How do i force navbar-burger on desktop/full screen?) Tj
+T* (URL: https://github.com/jgthms/bulma/issues/3326) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 544.2522047244094665 Td
+(issue: How to deal with "missing href in anchor" linter errors when using tabs or dropdowns) Tj
+T* (URL: https://github.com/jgthms/bulma/issues/3325) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 501.7325196850393354 Td
+(issue: Level does not look vertically centered) Tj
+T* (URL: https://github.com/jgthms/bulma/issues/3322) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 459.2128346456692611 Td
+(issue: Page rendering is broken by large <pre> element) Tj
+T* (URL: https://github.com/jgthms/bulma/issues/3321) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 416.69314960629913 Td
+(issue: Ionicons are outdated) Tj
+T* (URL: https://github.com/jgthms/bulma/issues/3320) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 374.1734645669290558 Td
+(issue: https://bulma.io/ display bug) Tj
+T* (URL: https://github.com/jgthms/bulma/issues/3319) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 331.6537795275589815 Td
+(issue: Number inputs inner buttons are not clickable on Firefox) Tj
+T* (URL: https://github.com/jgthms/bulma/issues/3318) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 289.1340944881889072 Td
+(issue: Bulma Pagination Conflicts with ngx-pagination angular) Tj
+T* (URL: https://github.com/jgthms/bulma/issues/3317) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 246.614409448818833 Td
+(issue: custom shades are returning as a whole map and not working properly) Tj
+T* (URL: https://github.com/jgthms/bulma/issues/3316) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 204.0947244094487587 Td
+(issue: .has-shadow is not documented in the navbar page) Tj
+T* (URL: https://github.com/jgthms/bulma/issues/3315) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 161.5750393700786844 Td
+(issue: Align the second column right and the first column left.) Tj
+T* (URL: https://github.com/jgthms/bulma/issues/3313) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 119.0553543307086102 Td
+(issue: Custom variables don't work on buttons) Tj
+T* (URL: https://github.com/jgthms/bulma/issues/3312) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 76.5356692913385359 Td
+(issue: Spacer helpers stop working when compiling sass) Tj
+T* (URL: https://github.com/jgthms/bulma/issues/3311) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 34.0159842519684616 Td
+(issue: Add new Sass variable to customize .panel-block padding) Tj
+T* (URL: https://github.com/jgthms/bulma/issues/3309) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 -8.5037007874017263 Td
+(issue: sticky hover on touch devices) Tj
+T* (URL: https://github.com/jgthms/bulma/issues/3308) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 -51.0233858267718006 Td
+(issue: NO SUPPORT for button.dropdown-item inside .dropdown-content) Tj
+T* (URL: https://github.com/jgthms/bulma/issues/3307) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 -93.5430708661418748 Td
+(issue: BUG file upload input has no :focus) Tj
+T* (URL: https://github.com/jgthms/bulma/issues/3306) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 -136.0627559055119491 Td
+(issue: Bulma Menu is centered at the top of the screen) Tj
+T* (URL: https://github.com/jgthms/bulma/issues/3304) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 -178.5824409448820234 Td
+(issue: Suggestion: Define a CSS variable for the current container width \(screen width breakpoint\)) Tj
+T* (URL: https://github.com/jgthms/bulma/issues/3303) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 -221.1021259842519839 Td
+(issue: First image in card not used is-rounded if required) Tj
+T* (URL: https://github.com/jgthms/bulma/issues/3302) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R ]
+/Count 1
+>>
+endobj
+5 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+6 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+7 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 5 0 R
+/F2 6 0 R
+/F3 7 0 R
+/F4 8 0 R
+/F5 9 0 R
+/F6 10 0 R
+/F7 11 0 R
+/F8 12 0 R
+/F9 13 0 R
+/F10 14 0 R
+/F11 15 0 R
+/F12 16 0 R
+/F13 17 0 R
+/F14 18 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+19 0 obj
+<<
+/Producer (jsPDF 2.3.1)
+/CreationDate (D:20210525212920+05'30')
+>>
+endobj
+20 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 21
+0000000000 65535 f 
+0000005390 00000 n 
+0000007207 00000 n 
+0000000015 00000 n 
+0000000152 00000 n 
+0000005447 00000 n 
+0000005572 00000 n 
+0000005702 00000 n 
+0000005835 00000 n 
+0000005972 00000 n 
+0000006095 00000 n 
+0000006224 00000 n 
+0000006356 00000 n 
+0000006492 00000 n 
+0000006620 00000 n 
+0000006747 00000 n 
+0000006876 00000 n 
+0000007009 00000 n 
+0000007111 00000 n 
+0000007455 00000 n 
+0000007541 00000 n 
+trailer
+<<
+/Size 21
+/Root 20 0 R
+/Info 19 0 R
+/ID [ <EF4E0FAD068346D080729F6E40A9D412> <EF4E0FAD068346D080729F6E40A9D412> ]
+>>
+startxref
+7645
+%%EOF

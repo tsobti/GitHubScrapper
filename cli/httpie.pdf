@@ -1,0 +1,433 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 5281
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 799.3703149606299121 Td
+(issue: Support for Content-Type on each part of a multi-part form) Tj
+T* (URL: https://github.com/httpie/httpie/issues/1050) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 756.8506299212598378 Td
+(issue: Following Link-Header / MultiPage-Requests \(RFC5988\)) Tj
+T* (URL: https://github.com/httpie/httpie/issues/1036) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 714.3309448818897636 Td
+(issue: Host header output incorrect when explicitly specifying the default port) Tj
+T* (URL: https://github.com/httpie/httpie/issues/1034) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 671.8112598425196893 Td
+(issue: Ideas to improve header visualization) Tj
+T* (URL: https://github.com/httpie/httpie/issues/1033) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 629.291574803149615 Td
+(issue: Displaying error for incomplete responses) Tj
+T* (URL: https://github.com/httpie/httpie/issues/1030) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 586.7718897637794271 Td
+(issue: System for meta information output options \(timing, SSL info, …\)) Tj
+T* (URL: https://github.com/httpie/httpie/issues/1023) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 544.2522047244094665 Td
+(issue: Better handling of responses without correct content-type charset) Tj
+T* (URL: https://github.com/httpie/httpie/issues/1022) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 501.7325196850393354 Td
+(issue: Create an option that allows --download to output progress somewhere that isn't stderr) Tj
+T* (URL: https://github.com/httpie/httpie/issues/1015) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 459.2128346456692611 Td
+(issue: verbose output should show SSL/TLS details) Tj
+T* (URL: https://github.com/httpie/httpie/issues/1011) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 416.69314960629913 Td
+(issue: Feature request: output full HTTP request and response in a JSON structure) Tj
+T* (URL: https://github.com/httpie/httpie/issues/1007) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 374.1734645669290558 Td
+(issue: Doesn't correctly handle storing cookies in session after redirect to different domain) Tj
+T* (URL: https://github.com/httpie/httpie/issues/1004) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 331.6537795275589815 Td
+(issue: on ubuntu apt install httpie install v1.0.3) Tj
+T* (URL: https://github.com/httpie/httpie/issues/1003) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 289.1340944881889072 Td
+(issue: https command not found after fresh installation) Tj
+T* (URL: https://github.com/httpie/httpie/issues/1001) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 246.614409448818833 Td
+(issue: send request which is saved in a text file) Tj
+T* (URL: https://github.com/httpie/httpie/issues/999) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 204.0947244094487587 Td
+(issue: ValueError: Elements in iterable body must be bytestrings) Tj
+T* (URL: https://github.com/httpie/httpie/issues/995) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 161.5750393700786844 Td
+(issue: is PySocks a dependancy ?) Tj
+T* (URL: https://github.com/httpie/httpie/issues/990) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 119.0553543307086102 Td
+(issue: Feature request: support "http\(s\) request" from raw requests file) Tj
+T* (URL: https://github.com/httpie/httpie/issues/989) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 76.5356692913385359 Td
+(issue: Support some way to specify an header that shouldn't be persisted to the session) Tj
+T* (URL: https://github.com/httpie/httpie/issues/975) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 34.0159842519684616 Td
+(issue: Support a flag/option to delete a named session) Tj
+T* (URL: https://github.com/httpie/httpie/issues/974) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 -8.5037007874017263 Td
+(issue: Incomplete responses do not cause an error) Tj
+T* (URL: https://github.com/httpie/httpie/issues/965) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 -51.0233858267718006 Td
+(issue: Support header values read from file ?) Tj
+T* (URL: https://github.com/httpie/httpie/issues/964) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 -93.5430708661418748 Td
+(issue: Change insecure SSL/TLS to deprecated) Tj
+T* (URL: https://github.com/httpie/httpie/issues/962) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 -136.0627559055119491 Td
+(issue: Support for client side certificate/key password) Tj
+T* (URL: https://github.com/httpie/httpie/issues/946) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 -178.5824409448820234 Td
+(issue: Add a build environment where pyOpenSSL is active ) Tj
+T* (URL: https://github.com/httpie/httpie/issues/939) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 -221.1021259842519839 Td
+(issue: Refactor client.py) Tj
+T* (URL: https://github.com/httpie/httpie/issues/935) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R ]
+/Count 1
+>>
+endobj
+5 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+6 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+7 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 5 0 R
+/F2 6 0 R
+/F3 7 0 R
+/F4 8 0 R
+/F5 9 0 R
+/F6 10 0 R
+/F7 11 0 R
+/F8 12 0 R
+/F9 13 0 R
+/F10 14 0 R
+/F11 15 0 R
+/F12 16 0 R
+/F13 17 0 R
+/F14 18 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+19 0 obj
+<<
+/Producer (jsPDF 2.3.1)
+/CreationDate (D:20210525212923+05'30')
+>>
+endobj
+20 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 21
+0000000000 65535 f 
+0000005485 00000 n 
+0000007302 00000 n 
+0000000015 00000 n 
+0000000152 00000 n 
+0000005542 00000 n 
+0000005667 00000 n 
+0000005797 00000 n 
+0000005930 00000 n 
+0000006067 00000 n 
+0000006190 00000 n 
+0000006319 00000 n 
+0000006451 00000 n 
+0000006587 00000 n 
+0000006715 00000 n 
+0000006842 00000 n 
+0000006971 00000 n 
+0000007104 00000 n 
+0000007206 00000 n 
+0000007550 00000 n 
+0000007636 00000 n 
+trailer
+<<
+/Size 21
+/Root 20 0 R
+/Info 19 0 R
+/ID [ <FC0AFE22F28A830017C35CCDDF9B14F4> <FC0AFE22F28A830017C35CCDDF9B14F4> ]
+>>
+startxref
+7740
+%%EOF

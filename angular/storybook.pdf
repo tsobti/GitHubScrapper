@@ -1,0 +1,433 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 5673
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 799.3703149606299121 Td
+(issue: Provide an option to resolve  manager-webpack5 module path in different folder than storybook config) Tj
+T* (URL: https://github.com/storybookjs/storybook/issues/15032) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 756.8506299212598378 Td
+(issue: Story not getting prop correctly?) Tj
+T* (URL: https://github.com/storybookjs/storybook/issues/15023) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 714.3309448818897636 Td
+(issue: Radio button needs 2 clicks to reflect change in storybook) Tj
+T* (URL: https://github.com/storybookjs/storybook/issues/15020) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 671.8112598425196893 Td
+(issue: Addon-docs: Support Angular Ivy rendering of multiple stories on a page) Tj
+T* (URL: https://github.com/storybookjs/storybook/issues/15017) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 629.291574803149615 Td
+(issue: Core: Support MDX files in built-in stories.json extraction) Tj
+T* (URL: https://github.com/storybookjs/storybook/issues/15014) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 586.7718897637794271 Td
+(issue: Core: Fix modern browser distribution) Tj
+T* (URL: https://github.com/storybookjs/storybook/issues/15013) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 544.2522047244094665 Td
+(issue: Actions don't show up in panel when using argTypesRegex) Tj
+T* (URL: https://github.com/storybookjs/storybook/issues/15012) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 501.7325196850393354 Td
+(issue: Storybook missing story when component has Typescript Enum as prop) Tj
+T* (URL: https://github.com/storybookjs/storybook/issues/15011) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 459.2128346456692611 Td
+(issue: Storybook Controls working with Typescript String Literal Types) Tj
+T* (URL: https://github.com/storybookjs/storybook/issues/15009) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 416.69314960629913 Td
+(issue: Addon-docs: Auto-generated tables for Typescript interfaces) Tj
+T* (URL: https://github.com/storybookjs/storybook/issues/15008) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 374.1734645669290558 Td
+(issue: StoryShots for async rendered components -Angular-) Tj
+T* (URL: https://github.com/storybookjs/storybook/issues/15000) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 331.6537795275589815 Td
+(issue: Cannot find module 'rollup') Tj
+T* (URL: https://github.com/storybookjs/storybook/issues/14990) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 289.1340944881889072 Td
+(issue: Storybook vue type checking not working) Tj
+T* (URL: https://github.com/storybookjs/storybook/issues/14987) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 246.614409448818833 Td
+(issue: Storybook documentation stories with filename .mdx instead of .stories.mdx) Tj
+T* (URL: https://github.com/storybookjs/storybook/issues/14986) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 204.0947244094487587 Td
+(issue: Addon controls: Color control does not reset when clicking on reset controls) Tj
+T* (URL: https://github.com/storybookjs/storybook/issues/14978) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 161.5750393700786844 Td
+(issue: Controls: Fix react unit tests to use react-docgen-typescript) Tj
+T* (URL: https://github.com/storybookjs/storybook/issues/14974) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 119.0553543307086102 Td
+(issue: Show parse errors for numbers and objects; style range input) Tj
+T* (URL: https://github.com/storybookjs/storybook/issues/14972) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 76.5356692913385359 Td
+(issue: Storybook Angular does not handle parent Component Outputs properly) Tj
+T* (URL: https://github.com/storybookjs/storybook/issues/14968) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 34.0159842519684616 Td
+(issue: Static stories.json refinements) Tj
+T* (URL: https://github.com/storybookjs/storybook/issues/14966) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 -8.5037007874017263 Td
+(issue: storybook/angular build uses wrong root field value to call angular-cli's getStylesConfig method) Tj
+T* (URL: https://github.com/storybookjs/storybook/issues/14957) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 -51.0233858267718006 Td
+(issue: Sveltekit aliased imports support) Tj
+T* (URL: https://github.com/storybookjs/storybook/issues/14952) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 -93.5430708661418748 Td
+(issue: Error when switching to webpack5 builder with ESM modules) Tj
+T* (URL: https://github.com/storybookjs/storybook/issues/14938) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 -136.0627559055119491 Td
+(issue: Trigger Vue event with $event happen method "toJSON" is not defined by Addon Action) Tj
+T* (URL: https://github.com/storybookjs/storybook/issues/14933) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 -178.5824409448820234 Td
+(issue: Handle @storybook/lit in Storybook CLI init command) Tj
+T* (URL: https://github.com/storybookjs/storybook/issues/14930) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 -221.1021259842519839 Td
+(issue: Documentation needed for integration of Storybook + SvelteKit + Tailwind) Tj
+T* (URL: https://github.com/storybookjs/storybook/issues/14929) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R ]
+/Count 1
+>>
+endobj
+5 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+6 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+7 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 5 0 R
+/F2 6 0 R
+/F3 7 0 R
+/F4 8 0 R
+/F5 9 0 R
+/F6 10 0 R
+/F7 11 0 R
+/F8 12 0 R
+/F9 13 0 R
+/F10 14 0 R
+/F11 15 0 R
+/F12 16 0 R
+/F13 17 0 R
+/F14 18 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+19 0 obj
+<<
+/Producer (jsPDF 2.3.1)
+/CreationDate (D:20210525212922+05'30')
+>>
+endobj
+20 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 21
+0000000000 65535 f 
+0000005877 00000 n 
+0000007694 00000 n 
+0000000015 00000 n 
+0000000152 00000 n 
+0000005934 00000 n 
+0000006059 00000 n 
+0000006189 00000 n 
+0000006322 00000 n 
+0000006459 00000 n 
+0000006582 00000 n 
+0000006711 00000 n 
+0000006843 00000 n 
+0000006979 00000 n 
+0000007107 00000 n 
+0000007234 00000 n 
+0000007363 00000 n 
+0000007496 00000 n 
+0000007598 00000 n 
+0000007942 00000 n 
+0000008028 00000 n 
+trailer
+<<
+/Size 21
+/Root 20 0 R
+/Info 19 0 R
+/ID [ <F6898D2F282BFB444A777A663D8199A5> <F6898D2F282BFB444A777A663D8199A5> ]
+>>
+startxref
+8132
+%%EOF

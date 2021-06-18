@@ -1,0 +1,53 @@
+{
+    "Hacktoberfest": [
+        {
+            "name": "free-programming-books"
+        },
+        {
+            "name": "ohmyzsh"
+        },
+        {
+            "name": "Python"
+        },
+        {
+            "name": "material-ui"
+        },
+        {
+            "name": "java-design-patterns"
+        }
+    ],
+    "Atom": [
+        {
+            "name": "atom"
+        },
+        {
+            "name": "dracula-theme"
+        },
+        {
+            "name": "themer"
+        },
+        {
+            "name": "hydrogen"
+        },
+        {
+            "name": "markdown-preview-enhanced"
+        }
+    ],
+    "JavaScript": [
+        {
+            "name": "freeCodeCamp"
+        },
+        {
+            "name": "vue"
+        },
+        {
+            "name": "react"
+        },
+        {
+            "name": "bootstrap"
+        },
+        {
+            "name": "You-Dont-Know-JS"
+        }
+    ]
+}

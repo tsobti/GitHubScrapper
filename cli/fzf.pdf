@@ -1,0 +1,433 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 5146
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 799.3703149606299121 Td
+(issue: Feature Request: Allow ANSI color names) Tj
+T* (URL: https://github.com/junegunn/fzf/issues/2502) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 756.8506299212598378 Td
+(issue: key-bindings files are not installed on ubuntu 21.04) Tj
+T* (URL: https://github.com/junegunn/fzf/issues/2480) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 714.3309448818897636 Td
+(issue: [FR] make  arbitrary escape codes bindable as hotkeys) Tj
+T* (URL: https://github.com/junegunn/fzf/issues/2478) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 671.8112598425196893 Td
+(issue: Fixing some bash keybindings and adding equivalent commands.) Tj
+T* (URL: https://github.com/junegunn/fzf/issues/2477) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 629.291574803149615 Td
+(issue: bash programmable_completion: possible retry loop) Tj
+T* (URL: https://github.com/junegunn/fzf/issues/2474) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 586.7718897637794271 Td
+(issue: Bash Completion Wrapper ) Tj
+T* (URL: https://github.com/junegunn/fzf/issues/2473) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 544.2522047244094665 Td
+(issue: Display problem with bash completion using fzf) Tj
+T* (URL: https://github.com/junegunn/fzf/issues/2470) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 501.7325196850393354 Td
+(issue: Getting   0/0 +S >  on CTRL+R) Tj
+T* (URL: https://github.com/junegunn/fzf/issues/2468) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 459.2128346456692611 Td
+(issue: Neovim: TermOpen not fired when fzf#run is used in ftplugin) Tj
+T* (URL: https://github.com/junegunn/fzf/issues/2467) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 416.69314960629913 Td
+(issue: [FEATURE] multicharacter trigger sequences \(keybindings\)) Tj
+T* (URL: https://github.com/junegunn/fzf/issues/2466) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 374.1734645669290558 Td
+(issue: [FEATURE] dynamic replace-query) Tj
+T* (URL: https://github.com/junegunn/fzf/issues/2465) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 331.6537795275589815 Td
+(issue: Preview scrolling doesn't work consistently with tmux control mode) Tj
+T* (URL: https://github.com/junegunn/fzf/issues/2462) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 289.1340944881889072 Td
+(issue: c8cd94a77294c1cac22e75 can't work well with clink key binding) Tj
+T* (URL: https://github.com/junegunn/fzf/issues/2459) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 246.614409448818833 Td
+(issue: [feature] Escape binding) Tj
+T* (URL: https://github.com/junegunn/fzf/issues/2458) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 204.0947244094487587 Td
+(issue: On limitations/constraints for available binding keys) Tj
+T* (URL: https://github.com/junegunn/fzf/issues/2457) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 161.5750393700786844 Td
+(issue: Optionally keeping literal effect of key in addition to binding) Tj
+T* (URL: https://github.com/junegunn/fzf/issues/2456) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 119.0553543307086102 Td
+(issue: [BUG][RACE CONDITION] fzf returns the first candidate even though another candidate is chosen) Tj
+T* (URL: https://github.com/junegunn/fzf/issues/2455) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 76.5356692913385359 Td
+(issue: accessibility improvements) Tj
+T* (URL: https://github.com/junegunn/fzf/issues/2452) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 34.0159842519684616 Td
+(issue: [BUG?] reload resets selections) Tj
+T* (URL: https://github.com/junegunn/fzf/issues/2441) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 -8.5037007874017263 Td
+(issue: [feature] --keep-left=COL to preserve COL number of leftmost columns while searching) Tj
+T* (URL: https://github.com/junegunn/fzf/issues/2437) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 -51.0233858267718006 Td
+(issue: Add action to change preview height or width) Tj
+T* (URL: https://github.com/junegunn/fzf/issues/2435) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 -93.5430708661418748 Td
+(issue: [feature request] make --nth independent of --with-nth) Tj
+T* (URL: https://github.com/junegunn/fzf/issues/2432) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 -136.0627559055119491 Td
+(issue: [Feature] One-line binary install improvement) Tj
+T* (URL: https://github.com/junegunn/fzf/issues/2425) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 -178.5824409448820234 Td
+(issue: Feature: Show panel with binded commands) Tj
+T* (URL: https://github.com/junegunn/fzf/issues/2423) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+14.1732283464566944 -221.1021259842519839 Td
+(issue: Show header first) Tj
+T* (URL: https://github.com/junegunn/fzf/issues/2422) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R ]
+/Count 1
+>>
+endobj
+5 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+6 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+7 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 5 0 R
+/F2 6 0 R
+/F3 7 0 R
+/F4 8 0 R
+/F5 9 0 R
+/F6 10 0 R
+/F7 11 0 R
+/F8 12 0 R
+/F9 13 0 R
+/F10 14 0 R
+/F11 15 0 R
+/F12 16 0 R
+/F13 17 0 R
+/F14 18 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+19 0 obj
+<<
+/Producer (jsPDF 2.3.1)
+/CreationDate (D:20210525212924+05'30')
+>>
+endobj
+20 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 21
+0000000000 65535 f 
+0000005350 00000 n 
+0000007167 00000 n 
+0000000015 00000 n 
+0000000152 00000 n 
+0000005407 00000 n 
+0000005532 00000 n 
+0000005662 00000 n 
+0000005795 00000 n 
+0000005932 00000 n 
+0000006055 00000 n 
+0000006184 00000 n 
+0000006316 00000 n 
+0000006452 00000 n 
+0000006580 00000 n 
+0000006707 00000 n 
+0000006836 00000 n 
+0000006969 00000 n 
+0000007071 00000 n 
+0000007415 00000 n 
+0000007501 00000 n 
+trailer
+<<
+/Size 21
+/Root 20 0 R
+/Info 19 0 R
+/ID [ <0ACF52BEDC84CFD438CEAD188E4DB713> <0ACF52BEDC84CFD438CEAD188E4DB713> ]
+>>
+startxref
+7605
+%%EOF

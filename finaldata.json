@@ -1,0 +1,383 @@
+{
+    "Database": [
+        {
+            "name": "etcd",
+            "issues": [
+                {
+                    "name": "Etcd Txn compare version==0 always succeeds",
+                    "link": "https://github.com//etcd-io/etcd/issues/13035"
+                },
+                {
+                    "name": "When I enable authorization, how can options in the command line be transferred in the grpc interface parameters in v3.4?",
+                    "link": "https://github.com//etcd-io/etcd/issues/13033"
+                },
+                {
+                    "name": "Lease is not expired in time through grpc-proxy",
+                    "link": "https://github.com//etcd-io/etcd/issues/13031"
+                },
+                {
+                    "name": "Add ability to trigger benchmark jobs on pull requests",
+                    "link": "https://github.com//etcd-io/etcd/issues/13025"
+                },
+                {
+                    "name": "setting wal-dir causes segmentation fault: [signal SIGSEGV: segmentation violation code=0x1 addr=0x10 pc=0xb2b63d]",
+                    "link": "https://github.com//etcd-io/etcd/issues/13021"
+                }
+            ]
+        },
+        {
+            "name": "tidb",
+            "issues": [
+                {
+                    "name": "Unknown or incorrect time zone: posixrules",
+                    "link": "https://github.com//pingcap/tidb/issues/24885"
+                },
+                {
+                    "name": "eliminate uncessary projection if order by items of topn refer to projection items for some cases",
+                    "link": "https://github.com//pingcap/tidb/issues/24884"
+                },
+                {
+                    "name": "dml: error message (ERROR 1242 (21000)) for select statement is not compatible with mysql (ERROR 1060 (42S21))",
+                    "link": "https://github.com//pingcap/tidb/issues/24882"
+                },
+                {
+                    "name": "create partition table error while using 'NO_UNSIGNED_SUBTRACTION sql mode",
+                    "link": "https://github.com//pingcap/tidb/issues/24880"
+                },
+                {
+                    "name": "The STATUS field data in the TIKV_REGION_PEERS table is incorrect",
+                    "link": "https://github.com//pingcap/tidb/issues/24879"
+                }
+            ]
+        },
+        {
+            "name": "sheetjs",
+            "issues": [
+                {
+                    "name": "How to ingore field when using XLSX.utils.json_to_sheet",
+                    "link": "https://github.com//SheetJS/sheetjs/issues/2297"
+                },
+                {
+                    "name": "Discourage use of the FileReader",
+                    "link": "https://github.com//SheetJS/sheetjs/issues/2295"
+                },
+                {
+                    "name": "How to change numbers format for currency",
+                    "link": "https://github.com//SheetJS/sheetjs/issues/2294"
+                },
+                {
+                    "name": "Hi, How to delete a row base on a Cell",
+                    "link": "https://github.com//SheetJS/sheetjs/issues/2286"
+                },
+                {
+                    "name": "how to fix parse dbf garbled? ",
+                    "link": "https://github.com//SheetJS/sheetjs/issues/2275"
+                }
+            ]
+        },
+        {
+            "name": "metabase",
+            "issues": [
+                {
+                    "name": "LDAP settings can get erased if port setting is incorrect",
+                    "link": "https://github.com//metabase/metabase/issues/16226"
+                },
+                {
+                    "name": "LDAP validation doesn't work if top level LDAP authentication is disabled",
+                    "link": "https://github.com//metabase/metabase/issues/16225"
+                },
+                {
+                    "name": "Unify style for propTypes across all components",
+                    "link": "https://github.com//metabase/metabase/issues/16224"
+                },
+                {
+                    "name": "Components using styled components don't always render ",
+                    "link": "https://github.com//metabase/metabase/issues/16221"
+                },
+                {
+                    "name": "Dashboard URL redirection broken on master (40-SNAPSHOT)",
+                    "link": "https://github.com//metabase/metabase/issues/16216"
+                }
+            ]
+        },
+        {
+            "name": "typeorm",
+            "issues": [
+                {
+                    "name": "@Transaction() with multiple @TransactionRepository() starts one transaction per query",
+                    "link": "https://github.com//typeorm/typeorm/issues/7679"
+                },
+                {
+                    "name": "Migration generation is failing due to missing SHIM function looksLikeNumber",
+                    "link": "https://github.com//typeorm/typeorm/issues/7678"
+                },
+                {
+                    "name": "Error with Heroku Postgres DB connecion",
+                    "link": "https://github.com//typeorm/typeorm/issues/7676"
+                },
+                {
+                    "name": "[sqlite] Find operation with between filter returns empty array",
+                    "link": "https://github.com//typeorm/typeorm/issues/7675"
+                },
+                {
+                    "name": "[MongoDB] Properties not defined in entity are not fetched",
+                    "link": "https://github.com//typeorm/typeorm/issues/7673"
+                }
+            ]
+        }
+    ],
+    "Jupyter Notebook": [
+        {
+            "name": "PythonDataScienceHandbook",
+            "issues": [
+                {
+                    "name": "Pip subprocess error: Command \"python setup.py egg_info\" failed with error code 1 in /tmp/pip-install-qwas2iyk/matplotlib/",
+                    "link": "https://github.com//jakevdp/PythonDataScienceHandbook/issues/303"
+                },
+                {
+                    "name": "I am new in Python Data Science. I have the error as follows:  ParserError: Error tokenizing data. C error: Expected 1 fields in line 12, saw 2 . How to resolve this?",
+                    "link": "https://github.com//jakevdp/PythonDataScienceHandbook/issues/295"
+                },
+                {
+                    "name": "ImportError: cannot import name 'RandomizedPCA' for 05.07-Support-Vector-Machines.ipynb",
+                    "link": "https://github.com//jakevdp/PythonDataScienceHandbook/issues/293"
+                },
+                {
+                    "name": "DS",
+                    "link": "https://github.com//jakevdp/PythonDataScienceHandbook/issues/292"
+                },
+                {
+                    "name": "Update Matplotlib formatters/tickers",
+                    "link": "https://github.com//jakevdp/PythonDataScienceHandbook/issues/284"
+                }
+            ]
+        },
+        {
+            "name": "Probabilistic-Programming-and-Bayesian-Methods-for-Hackers",
+            "issues": [
+                {
+                    "name": "Cannot compile: Key error template_paths",
+                    "link": "https://github.com//CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/issues/522"
+                },
+                {
+                    "name": "PyMC3 install, https://github.com/pymc-devs/pymc3/wiki/Installation-Guide-(Windows)",
+                    "link": "https://github.com//CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/issues/521"
+                },
+                {
+                    "name": "Chap 1, Section: Introducing our first hammer: PyMC3, example error, PyMC3,",
+                    "link": "https://github.com//CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/issues/520"
+                },
+                {
+                    "name": "[Feature Request] Add new TFP syntax: JointDistribution*{AutoBatched}",
+                    "link": "https://github.com//CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/issues/517"
+                },
+                {
+                    "name": "Ch 5 Dark World, Text equation uses min by code uses max",
+                    "link": "https://github.com//CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/issues/516"
+                }
+            ]
+        },
+        {
+            "name": "handson-ml",
+            "issues": [
+                {
+                    "name": "Chapter 8 (2nd edition)  kpca gridsearchcv and inverse_transform",
+                    "link": "https://github.com//ageron/handson-ml/issues/629"
+                },
+                {
+                    "name": "Splitting with hashlib",
+                    "link": "https://github.com//ageron/handson-ml/issues/628"
+                },
+                {
+                    "name": "using column indices in the Custom Transformer",
+                    "link": "https://github.com//ageron/handson-ml/issues/615"
+                },
+                {
+                    "name": "Creating a test set with a hash (Issue 71 was closed)",
+                    "link": "https://github.com//ageron/handson-ml/issues/613"
+                },
+                {
+                    "name": "got an error while opening notebook Unreadable Notebook: C:\\requestshtml\\envdeepl\\02_end_to_end_machine_learning_project.ipynb NotJSONError(\"Notebook does not appear to be JSON: '\\\\n\\\\n\\\\n\\\\n\\\\n\\\\n<!DOCTYPE html>\\\\n<html lang...\",)",
+                    "link": "https://github.com//ageron/handson-ml/issues/611"
+                }
+            ]
+        },
+        {
+            "name": "homemade-machine-learning",
+            "issues": [
+                {
+                    "name": "ann",
+                    "link": "https://github.com//trekhleb/homemade-machine-learning/issues/37"
+                },
+                {
+                    "name": "ML",
+                    "link": "https://github.com//trekhleb/homemade-machine-learning/issues/35"
+                },
+                {
+                    "name": "Predictions",
+                    "link": "https://github.com//trekhleb/homemade-machine-learning/issues/29"
+                },
+                {
+                    "name": "Website not getting redirect?",
+                    "link": "https://github.com//trekhleb/homemade-machine-learning/issues/22"
+                },
+                {
+                    "name": "error LogisticRegression ",
+                    "link": "https://github.com//trekhleb/homemade-machine-learning/issues/21"
+                }
+            ]
+        },
+        {
+            "name": "100-Days-Of-ML-Code",
+            "issues": [
+                {
+                    "name": "请教：Info-graphs中的Day4 逻辑回归 插图，如何绘制？恳请指点",
+                    "link": "https://github.com//MLEveryday/100-Days-Of-ML-Code/issues/96"
+                },
+                {
+                    "name": "推荐一个微信小程序可以方便查看该项目",
+                    "link": "https://github.com//MLEveryday/100-Days-Of-ML-Code/issues/89"
+                },
+                {
+                    "name": "support python 3 ?",
+                    "link": "https://github.com//MLEveryday/100-Days-Of-ML-Code/issues/88"
+                },
+                {
+                    "name": "QQ群",
+                    "link": "https://github.com//MLEveryday/100-Days-Of-ML-Code/issues/83"
+                },
+                {
+                    "name": "补充资源",
+                    "link": "https://github.com//MLEveryday/100-Days-Of-ML-Code/issues/70"
+                }
+            ]
+        }
+    ],
+    "MySQL": [
+        {
+            "name": "JavaGuide",
+            "issues": [
+                {
+                    "name": "关于一些标点符号、格式的问题",
+                    "link": "https://github.com//Snailclimb/JavaGuide/issues/1207"
+                },
+                {
+                    "name": "更正：MaxMetaspaceSize如果不指定大小的话，不会耗尽内存",
+                    "link": "https://github.com//Snailclimb/JavaGuide/issues/1204"
+                },
+                {
+                    "name": "关于动态对象年龄判定描述不准确",
+                    "link": "https://github.com//Snailclimb/JavaGuide/issues/1199"
+                },
+                {
+                    "name": "关于ArrayList中的Arrays.copy()中的建议",
+                    "link": "https://github.com//Snailclimb/JavaGuide/issues/1193"
+                },
+                {
+                    "name": "JavaGuide/docs/java/basis/代理模式详解.md",
+                    "link": "https://github.com//Snailclimb/JavaGuide/issues/1192"
+                }
+            ]
+        },
+        {
+            "name": "mall",
+            "issues": [
+                {
+                    "name": "仅仅启动mall-admin登录出现的问题",
+                    "link": "https://github.com//macrozheng/mall/issues/482"
+                },
+                {
+                    "name": "商品es搜索问题",
+                    "link": "https://github.com//macrozheng/mall/issues/481"
+                },
+                {
+                    "name": "com.macro.mall.portal.controller.PmsPortalProductController#search接口的selectByExample查询不正确",
+                    "link": "https://github.com//macrozheng/mall/issues/480"
+                },
+                {
+                    "name": "为什么要用mongodb存商品浏览记录，直接用mysql不也行",
+                    "link": "https://github.com//macrozheng/mall/issues/479"
+                },
+                {
+                    "name": "支付信息存到哪里了？",
+                    "link": "https://github.com//macrozheng/mall/issues/478"
+                }
+            ]
+        },
+        {
+            "name": "grafana",
+            "issues": [
+                {
+                    "name": "Series to rows transformation does not preserve previous transforms",
+                    "link": "https://github.com//grafana/grafana/issues/34646"
+                },
+                {
+                    "name": "Getting unauthorised on Grafana Login Screen",
+                    "link": "https://github.com//grafana/grafana/issues/34645"
+                },
+                {
+                    "name": "Panel edit: override search result label is not highlghted",
+                    "link": "https://github.com//grafana/grafana/issues/34638"
+                },
+                {
+                    "name": "Trivy scan finds two CVE on Grafana 7.5.7",
+                    "link": "https://github.com//grafana/grafana/issues/34633"
+                },
+                {
+                    "name": "Alerting: Cross team testing",
+                    "link": "https://github.com//grafana/grafana/issues/34628"
+                }
+            ]
+        },
+        {
+            "name": "tidb",
+            "issues": [
+                {
+                    "name": "Unknown or incorrect time zone: posixrules",
+                    "link": "https://github.com//pingcap/tidb/issues/24885"
+                },
+                {
+                    "name": "eliminate uncessary projection if order by items of topn refer to projection items for some cases",
+                    "link": "https://github.com//pingcap/tidb/issues/24884"
+                },
+                {
+                    "name": "dml: error message (ERROR 1242 (21000)) for select statement is not compatible with mysql (ERROR 1060 (42S21))",
+                    "link": "https://github.com//pingcap/tidb/issues/24882"
+                },
+                {
+                    "name": "create partition table error while using 'NO_UNSIGNED_SUBTRACTION sql mode",
+                    "link": "https://github.com//pingcap/tidb/issues/24880"
+                },
+                {
+                    "name": "The STATUS field data in the TIKV_REGION_PEERS table is incorrect",
+                    "link": "https://github.com//pingcap/tidb/issues/24879"
+                }
+            ]
+        },
+        {
+            "name": "JavaFamily",
+            "issues": [
+                {
+                    "name": "大佬牛牛牛",
+                    "link": "https://github.com//AobingJava/JavaFamily/issues/65"
+                },
+                {
+                    "name": "面试里自我介绍那篇链接不对，跳到20行代码那篇去了",
+                    "link": "https://github.com//AobingJava/JavaFamily/issues/64"
+                },
+                {
+                    "name": "敖丙",
+                    "link": "https://github.com//AobingJava/JavaFamily/issues/62"
+                },
+                {
+                    "name": "HashMap有错字",
+                    "link": "https://github.com//AobingJava/JavaFamily/issues/60"
+                },
+                {
+                    "name": "公众号的二维码失效了？",
+                    "link": "https://github.com//AobingJava/JavaFamily/issues/58"
+                }
+            ]
+        }
+    ]
+}
